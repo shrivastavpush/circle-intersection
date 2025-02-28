@@ -1,0 +1,12 @@
+body {
+    position: relative;
+}
+
+#headDiv {
+    text-align: center;
+}
+
+.circle {
+    border-radius: 50%;
+    position: fixed;
+}
